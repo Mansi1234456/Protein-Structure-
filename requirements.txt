@@ -1,0 +1,5 @@
+streamlit==1.35.0
+st-visualize-molecule==0.1.0
+py3Dmol
+biopython
+plotly
